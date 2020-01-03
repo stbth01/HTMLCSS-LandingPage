@@ -63,3 +63,33 @@ section {
 .flex-one {
     flex: 1
 }
+
+.align-center {
+    align-items: center
+}
+
+.center {
+    justify-content: center
+}
+
+.space-between {
+    justify-content: space-between
+}
+
+.btn {
+    cursor: pointer;
+    border: 0;
+    padding: 6px 12px;
+    border-radius: 3px;
+    line-height: 1.4;
+}
+
+.btn-default {
+    color: white;
+    background-color: #faa541
+}
+
+.btn-primary {
+    color: white;
+    background-color: #364147
+}
