@@ -132,3 +132,19 @@ section {
     max-width: 100%;
     height: auto;
 }
+
+.search-box {
+    width: 330px;
+    height: 30px;
+    padding: 6px 12px;
+    border: 1px solid #a0a0a0;
+}
+
+.search-button {
+    width: 100px;
+    height: 30px;
+    background-color: #a0a0a0;
+    color: #ffffff;
+    border: 0;
+    padding: 0;
+}
